@@ -14,7 +14,7 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Bueno 코딩 # the main title
+title: Bueno의 개발일지 # the main title
 
 tagline: Developer Bueno # it will display as the sub-title
 
@@ -71,7 +71,7 @@ theme_mode: # [light|dark]
 img_cdn: "https://chirpy-img.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: "/assets/img/avatar/sl.png"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
